@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AtiConfig</key>
+	<string>Vervet</string>
+	<key>Boot Graphics</key>
+	<string>Yes</string>
+	<key>CSTUsingSystemIO</key>
+	<string>Yes</string>
+	<key>Credits</key>
+	<string>Created with Champlist</string>
+	<key>DSDT</key>
+	<string>/Extra/hp-dv6-dsdt.aml</string>
+	<key>DropSSDT</key>
+	<string>Yes</string>
+	<key>EnableC2State</key>
+	<string>Yes</string>
+	<key>EnableC3State</key>
+	<string>Yes</string>
+	<key>EnableC4State</key>
+	<string>Yes</string>
+	<key>EthernetBuiltIn</key>
+	<string>Yes</string>
+	<key>ForceHPET</key>
+	<string>Yes</string>
+	<key>GUI</key>
+	<string>No</string>
+	<key>GenerateCStates</key>
+	<string>Yes</string>
+	<key>GeneratePStates</key>
+	<string>Yes</string>
+	<key>Graphics Mode</key>
+	<string>1366x768x32</string>
+	<key>GraphicsEnabler</key>
+	<string>Yes</string>
+	<key>Kernel</key>
+	<string>mach_kernel</string>
+	<key>Kernel Flags</key>
+	<string>npci=0x2000</string>
+	<key>Legacy Logo</key>
+	<string>Yes</string>
+	<key>Quiet Boot</key>
+	<string>Yes</string>
+	<key>SystemType</key>
+	<string>2</string>
+	<key>UseKernelCache</key>
+	<string>Yes</string>
+</dict>
+</plist>
